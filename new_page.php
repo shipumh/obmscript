@@ -20,7 +20,7 @@ $page_title = "New Page";
 
 include(__DIR__ ."/../inc/head_struc.php");  
 
-/* head_struc.php is containing template header file   */
+/* head_struc.php is containing template header contents   */
 ?>
 <!-- Body contents -->
 <div id="container">
